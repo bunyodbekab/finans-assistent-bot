@@ -13,7 +13,7 @@ A Telegram bot for tracking income and expenses, generating reports, and managin
 
 ### Prerequisites
 
-- Python 3.7 or higher.
+- Python 3.8 or higher.
 - Telegram bot token from [BotFather](https://core.telegram.org/bots#6-botfather).
 
 ### Clone the Repository
