@@ -23,7 +23,7 @@ from telegram.ext import (
 
 logging.basicConfig(level=logging.INFO)
 
-# Replace 'YOUR_TELEGRAM_BOT_TOKEN_HERE' with your actual bot token
+# Replace 'YOUR_TELEGRAM_BOT_TOKEN_HERE' with your actual bot token>>
 TOKEN = 'YOUR-BOT-TOKEN-HERE'
 
 # States
