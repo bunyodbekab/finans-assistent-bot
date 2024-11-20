@@ -18,7 +18,7 @@ A Telegram bot for tracking income and expenses, generating reports, and managin
 
 ### Clone the Repository
 
-git clone https://github.com/your-username/finance-assist-bot.git
+git clone https://github.com/bayroqdor/finance-assist-bot.git
 cd finance-assist-bot
 
 ### Create a Virtual Environment (Optional but Recommended)
