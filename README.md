@@ -18,15 +18,14 @@ A Telegram bot for tracking income and expenses, generating reports, and managin
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/your-username/finance-assist-bot.git
 cd finance-assist-bot
 
-Create a Virtual Environment (Optional but Recommended)
+### Create a Virtual Environment (Optional but Recommended)
 
 python -m venv venv
 
-Activate the virtual environment:
+### Activate the virtual environment:
 
     On Windows:
 
@@ -36,7 +35,7 @@ On Unix or MacOS:
 
     source venv/bin/activate
 
-Install Dependencies
+### Install Dependencies
 
 pip install -r requirements.txt
 
@@ -49,12 +48,12 @@ openpyxl
 Run the Bot
 python bot.py
 
-Usage
+### Usage
 
     Start the bot by sending /start in your Telegram client.
     Follow the prompts to select your language and begin using the bot.
 
-License
+### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 Contributing
